@@ -24,4 +24,4 @@ sklearn==0.0
 virtualenv==20.0.20
 virtualenvwrapper-win==1.2.6
 Werkzeug==1.0.1
-zipp==3.1.0
+zipp==3.19.1
